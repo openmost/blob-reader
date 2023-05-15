@@ -1,0 +1,17 @@
+{
+  "name": "blob-reader",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "php -S 127.0.0.1:8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/openmost/blob-reader.git"
+  },
+  "author": "Openmost",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/openmost/blob-reader/issues"
+  },
+  "homepage": "https://github.com/openmost/blob-reader#readme"
+}
